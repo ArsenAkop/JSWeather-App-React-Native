@@ -18,5 +18,18 @@
     "babel-preset-expo": "~8.0.0",
     "@babel/core": "^7.0.0"
   },
-  "private": true
+  "private": true,
+  "name": "first-project",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArsenAkop/JSWeather-App-React-Native.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArsenAkop/JSWeather-App-React-Native/issues"
+  },
+  "homepage": "https://github.com/ArsenAkop/JSWeather-App-React-Native#readme",
+  "description": ""
 }
